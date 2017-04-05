@@ -21,10 +21,20 @@ In Data 2, the starting lidar measurements for x, y are both zero, and this spec
 ### Evaluation
 
 Data file: sample-laser-radar-measurement-data-1.txt
+Accuracy - RMSE:
+0.0651648
+0.0605379
+0.533212
+0.544193
 
 ![output_1.png][output_1]
 
 Data file: sample-laser-radar-measurement-data-2.txt
+Accuracy - RMSE:
+0.185465
+0.190254
+0.476509
+0.810793
 
 ![output_2.png][output_2]
 
